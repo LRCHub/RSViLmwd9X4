@@ -1,0 +1,96 @@
+# エラ・メイ – Luckiest Man
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+5'9" and brown eyes
+And everybody wanna love me
+They say I keep on getting finer
+And I ain't even doing nothing
+Skin on some porcelain glass
+Don't need no make-up,
+you can trust it
+If I want it, know I can have it
+But I ain't even on that
+Damn, they don't make 'em like me
+Me and them just ain't the same
+Just 'cause I stay in my lane
+Don't mean I can't play the game
+Work too damn hard for my name
+They wish they had me your way
+I'm sure they want your place
+So hear me when I say
+The luckiest man, luckiest man
+Luckiest man to be on my side
+You the luckiest man, luckiest man
+Luckiest man to lay up at night with me
+'Cause I could be out into things
+But I know what love really means
+Don't make me change my mind now
+You the luckiest man alive
+When it come down to what you like
+My hair and nails stay on a hundred
+Natural aesthetic still my vibe
+Woke up like this,
+you know it's nothing
+Out of the way, I'm staying focused
+I chill in my home because I own it
+Don't take it wrong
+I'm not for stringing along
+You'd better act like you know
+That I'm the one you need
+Damn, they don't make 'em like me
+Me and them just ain't the same
+Just 'cause I stay in my lane
+Don't mean I can't play the game
+Work too damn hard for my name
+They wish they had me your way
+I'm sure they want your place
+So hear me when I say
+The luckiest man, luckiest man
+Luckiest man to be on my side
+You the luckiest man, luckiest man
+Luckiest man to lay up at night with me
+'Cause I could be out into things
+But I know what love really means
+Don't make me change my mind now
+You the luckiest man alive
+And there's more to me than beauty
+It's the way I give my heart
+When I tell you what I'm thinking
+Boy, be careful with my thoughts
+Yeah, you know that I'm the reason
+And I've been it since the start
+I am such a work of art
+I am such a work of art
+Damn, they don't make 'em like me
+Me and them just ain't the same
+Just 'cause I stay in my lane
+Don't mean I can't play the game
+Work too damn hard for my name
+They wish they had me your way
+I'm sure they want your place
+So hear me when I say
+The luckiest man, luckiest man
+Luckiest man to be on my side
+You the luckiest man, luckiest man
+Luckiest man to lay up at night with me
+'Cause I could be out into things
+But I know what love really means
+Don't make me change my mind now
+You the luckiest man alive
+You the luckiest man, luckiest man
+Luckiest man to be on my side
+You the luckiest man, luckiest man
+Luckiest man to lay up at night with me
+'Cause I could be out into things
+But I know what love really means
+Don't make me change my mind now
+You the luckiest man alive
+Attitude
+Now walk off (Okay)
+Attitude
+What? Now walk off
+Attitude, ooh, now walk off
+Okay
+```
