@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Luckiest Man",
+  "base_artist": "エラ・メイ",
+  "createdAt": "2026-03-13T15:33:02.079947Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Luckiest Man",
+      "artist": "The Wood Brothers",
+      "has_synced": true,
+      "path": "select/01_Luckiest_Man_The_Wood_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Luckiest Man",
+      "artist": "Chris Brown",
+      "has_synced": true,
+      "path": "select/02_Luckiest_Man_Chris_Brown.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Luckiest Man",
+      "artist": "Jay Sean",
+      "has_synced": true,
+      "path": "select/03_Luckiest_Man_Jay_Sean.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Luckiest Man Alive",
+      "artist": "The Finn Brothers",
+      "has_synced": false,
+      "path": "select/04_Luckiest_Man_Alive_The_Finn_Brothers.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Luckiest Man Alive",
+      "artist": "Finn Brothers",
+      "has_synced": false,
+      "path": "select/05_Luckiest_Man_Alive_Finn_Brothers.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Luckiest Man",
+      "artist": "Chris Brown",
+      "has_synced": true,
+      "path": "select/06_Luckiest_Man_Chris_Brown.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Luckiest Man",
+      "artist": "King Khan and the Shrines",
+      "has_synced": true,
+      "path": "select/07_Luckiest_Man_King_Khan_and_the_Shrines.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Luckiest Man",
+      "artist": "King Khan & the Shrines",
+      "has_synced": true,
+      "path": "select/08_Luckiest_Man_King_Khan_&_the_Shrines.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Luckiest Man",
+      "artist": "Usher",
+      "has_synced": true,
+      "path": "select/09_Luckiest_Man_Usher.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Luckiest Man In The World",
+      "artist": "Danny Michel",
+      "has_synced": false,
+      "path": "select/10_The_Luckiest_Man_In_The_World_Danny_Michel.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Luckiest Man",
+      "artist": "Chris Brown",
+      "has_synced": true,
+      "path": "select/11_Luckiest_Man_Chris_Brown.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Luckiest Man 🅴",
+      "artist": "Usher",
+      "has_synced": true,
+      "path": "select/12_Luckiest_Man_🅴_Usher.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Chris Brown - Luckiest Man (Audio)",
+      "artist": "Chris Brown",
+      "has_synced": false,
+      "path": "select/13_Chris_Brown_-_Luckiest_Man_(Audio)_Chris_Brown.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Luckiest Man Alive",
+      "artist": "Illiterate Light",
+      "has_synced": false,
+      "path": "select/14_Luckiest_Man_Alive_Illiterate_Light.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Luckiest Man Alive",
+      "artist": "Justin Moore",
+      "has_synced": false,
+      "path": "select/15_The_Luckiest_Man_Alive_Justin_Moore.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Luckiest Man Alive",
+      "artist": "Moore, Justin",
+      "has_synced": false,
+      "path": "select/16_The_Luckiest_Man_Alive_Moore,_Justin.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Luckiest Man",
+      "artist": "Drake White",
+      "has_synced": true,
+      "path": "select/17_Luckiest_Man_Drake_White.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Luckiest Man",
+      "artist": "White, Drake",
+      "has_synced": true,
+      "path": "select/18_Luckiest_Man_White,_Drake.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Luckiest Man",
+      "artist": "Ella Mai",
+      "has_synced": false,
+      "path": "select/pl_01_Luckiest_Man_Ella_Mai.txt"
+    }
+  ]
+}
